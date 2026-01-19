@@ -10,7 +10,7 @@ namespace Tyuiu.Kkhalid.Sprint6.Task7.V27.Lib
         public int[,] GetMatrix(string path)
         {
             // خواندن تمام خطوط فایل
-            string[] lines = File.ReadAllLines(path);
+            string[] lines = File.ReadAllLines(path); 
 
             // تعیین ابعاد ماتریس
             int rows = lines.Length;
