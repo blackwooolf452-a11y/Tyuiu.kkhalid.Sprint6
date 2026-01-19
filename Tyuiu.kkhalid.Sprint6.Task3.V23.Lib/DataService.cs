@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using tyuiu.cources.programming.interfaces.Sprint6;
 namespace Tyuiu.Kkhalid.Sprint6.Task3.V23.Lib
 {
-    public class DataService : ISprint6Task3V23
+    public class DataService : ISprint6Task3V23 
     {
         public int[,] Calculate(int[,] matrix)
         {

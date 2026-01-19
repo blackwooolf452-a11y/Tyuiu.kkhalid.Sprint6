@@ -4,7 +4,7 @@ using Tyuiu.Kkhalid.Sprint6.Task3.V23.Lib;
 
 namespace Tyuiu.Kkhalid.Sprint6.Task3.V23
 {
-    public partial class FormMain : Form
+    public partial class  FormMain : Form
     {
         public FormMain()
         {
