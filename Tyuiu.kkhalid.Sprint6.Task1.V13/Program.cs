@@ -1,0 +1,17 @@
+using System;
+using System.Windows.Forms;
+using Tyuiu.kkhalid.Sprint6.Task1.V13;
+
+namespace Tyuiu.Kkhalid.Sprint6.Task1.V13
+{
+    static class Program
+    {
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new FormMain());
+        }
+    }
+}
